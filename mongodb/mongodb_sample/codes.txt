@@ -1,0 +1,3 @@
+# commandline ※login as root in local server
+create a database：use <DATABASE NAME>
+create a collection：db.createCollection("<COLLECTION NAME>")
